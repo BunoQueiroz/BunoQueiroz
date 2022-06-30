@@ -1,4 +1,4 @@
-<h1>Bruno de Castro, muito prazer!</h1>
+<h1>Bruno de Castro, muito prazer!👋😄</h1>
 <div align="center">
   <a href="https://github.com/BunoQueiroz">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=BunoQueiroz&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
@@ -29,3 +29,6 @@
         <img src="https://www.svgrepo.com/show/394174/github.svg" width="45rem" height="40rem" srcset="https://www.svgrepo.com/show/394174/github.svg 4x" alt="Github Icon" title="Github Icon">
     </a>
 </ul>
+
+<h4>📚 Atualmente estudando Django...</h4>
+<h4>🎓 Técnico em informática...</h4>
