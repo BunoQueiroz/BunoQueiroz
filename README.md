@@ -1,3 +1,4 @@
+<h1>Bruno de Castro, muito prazer!</h1>
 <div align="center">
   <a href="https://github.com/BunoQueiroz">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=BunoQueiroz&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
