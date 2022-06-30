@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/BunoQueiroz">
-  <img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api?username=BunoQueiroz&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=BunoQueiroz&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunoQueiroz&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="width: 80%; margin: 0 auto; display: block">
+<div style="width: 80%; margin: 0 auto; display: inline-block">
         <div style="display: inline-block; margin: 1rem 0.3rem;">
             <a href="https://api.whatsapp.com/send?phone=5585981639630">
                 <img style="background-color: white;" src="https://www.svgrepo.com/show/349563/whatsapp.svg" width="30rem" height="30rem" srcset="https://www.svgrepo.com/show/349563/whatsapp.svg 4x" alt="Whatsapp Icon" title="Whatsapp Icon">
