@@ -24,8 +24,8 @@
     <a href="https://www.facebook.com/brunodecastro.castroqueiroz/">
         <img src="https://www.svgrepo.com/show/13643/facebook.svg" width="50rem" height="40rem" srcset="https://www.svgrepo.com/show/13643/facebook.svg 4x" alt="Facebook Icon" title="Facebook Icon">
     </a>
-    <a href="https://github.com/BunoQueiroz">
-        <img src="https://www.svgrepo.com/show/394174/github.svg" width="45rem" height="40rem" srcset="https://www.svgrepo.com/show/394174/github.svg 4x" alt="Github Icon" title="Github Icon">
+    <a href="https://br.linkedin.com/in/bruno-de-castro-queiroz-47a911225">
+        <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="45rem" height="40rem" srcset="https://www.svgrepo.com/show/157006/linkedin.svg 4x" alt="Linkedin Icon" title="Linkedin Icon">
     </a>
 </ul>
 
