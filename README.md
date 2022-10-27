@@ -5,10 +5,10 @@
 </div>
 <div>
   <ul>
-    <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" srcset="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg 4x" width="50rem" heigth="45rem" alt="Icon Bootstrap" title="Icon Bootstrap">
     <img src="https://www.svgrepo.com/show/349402/html5.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/349402/html5.svg 4x" alt="Html5 Icon" title="Html5 Icon">
     <img src="https://www.svgrepo.com/show/373535/css.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/373535/css.svg 4x" alt="Css Icon" title="Css Icon">
     <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/349419/javascript.svg 4x" alt="Vetor Icon" title="Vetor Icon">
+    <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" srcset="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg 4x" width="47rem" heigth="45rem" alt="Icon Bootstrap" title="Icon Bootstrap">
     <img src="https://www.svgrepo.com/show/354238/python.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/354238/python.svg 4x" alt="Python Icon" title="Python Icon">
     <img src="https://www.svgrepo.com/show/353656/django.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/353656/django.svg 4x" alt="Django Icon" title="Django Icon">
     <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/354200/postgresql.svg 4x" alt="Postgresql Icon" title="Postgresql Icon">
