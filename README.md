@@ -30,5 +30,5 @@
     </a>
 </ul>
 
-<h4>📚 Atualmente estudando Django...</h4>
+<h4>📚 Atualmente estudando DevOps...</h4>
 <h4>🎓 Técnico em informática...</h4>
