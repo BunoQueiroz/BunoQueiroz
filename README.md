@@ -23,13 +23,13 @@
     <img src="https://www.svgrepo.com/show/349563/whatsapp.svg" width="50rem" height="40rem" srcset="https://www.svgrepo.com/show/349563/whatsapp.svg 4x" alt="Whatsapp Icon" title="Whatsapp Icon">
   </a>
   <a href="https://www.instagram.com/bruno.castro.q/">
-    <img src="https://www.svgrepo.com/show/13639/instagram.svg" width="50rem" height="40rem" srcset="https://www.svgrepo.com/show/13639/instagram.svg 4x" alt="Instagram Icon" title="Instagram Icon">
+    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/13639/instagram.svg 4x" alt="Instagram Icon" title="Instagram Icon">
   </a>
   <a href="https://www.facebook.com/brunodecastro.castroqueiroz/">
-    <img src="https://www.svgrepo.com/show/13643/facebook.svg" width="50rem" height="40rem" srcset="https://www.svgrepo.com/show/13643/facebook.svg 4x" alt="Facebook Icon" title="Facebook Icon">
+    <img src="https://www.svgrepo.com/show/452196/facebook-1.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/13643/facebook.svg 4x" alt="Facebook Icon" title="Facebook Icon">
   </a>
     <a href="https://br.linkedin.com/in/bruno-de-castro-queiroz-47a911225">
-        <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="45rem" height="40rem" srcset="https://www.svgrepo.com/show/157006/linkedin.svg 4x" alt="Linkedin Icon" title="Linkedin Icon">
+        <img src="https://www.svgrepo.com/show/452051/linkedin.svg" width="50rem" height="50rem" srcset="https://www.svgrepo.com/show/157006/linkedin.svg 4x" alt="Linkedin Icon" title="Linkedin Icon">
     </a>
 </ul>
 
