@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunoQueiroz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div>
-  <ul>
+  <ul align="center">
     <img src="https://www.svgrepo.com/show/349402/html5.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/349402/html5.svg 4x" alt="Html5 Icon" title="Html5 Icon">
     <img src="https://www.svgrepo.com/show/373535/css.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/373535/css.svg 4x" alt="Css Icon" title="Css Icon">
     <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/349419/javascript.svg 4x" alt="Vetor Icon" title="Vetor Icon">
