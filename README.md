@@ -14,7 +14,7 @@
     <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/354200/postgresql.svg 4x" alt="Postgresql Icon" title="Postgresql Icon">
     <img src="https://www.svgrepo.com/show/452192/docker.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/452192/docker.svg 4x" alt="Docker Icon" title="Docker Icon">
     <img src="https://www.svgrepo.com/show/452054/linux.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/452054/linux.svg 4x" alt="Linux Icon" title="Linux Icon">
-    <img src="https://www.svgrepo.com/show/303369/amazon-web-services-logo.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/303369/amazon-web-services-logo.svg 4x" alt="AWS Icon" title="AWS Icon">
+    <img src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg" width="45rem" height="45rem" srcset="https://www.svgrepo.com/show/303369/amazon-web-services-logo.svg 4x" alt="AWS Icon" title="AWS Icon">
   </ul>
 </div>
 <hr>
