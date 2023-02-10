@@ -12,6 +12,9 @@
     <img src="https://www.svgrepo.com/show/354238/python.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/354238/python.svg 4x" alt="Python Icon" title="Python Icon">
     <img src="https://www.svgrepo.com/show/353656/django.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/353656/django.svg 4x" alt="Django Icon" title="Django Icon">
     <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/354200/postgresql.svg 4x" alt="Postgresql Icon" title="Postgresql Icon">
+    <img src="https://www.svgrepo.com/show/452192/docker.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/452192/docker.svg 4x" alt="Docker Icon" title="Docker Icon">
+    <img src="https://www.svgrepo.com/show/452054/linux.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/452054/linux.svg 4x" alt="Linux Icon" title="Linux Icon">
+    <img src="https://www.svgrepo.com/show/303369/amazon-web-services-logo.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/303369/amazon-web-services-logo.svg 4x" alt="AWS Icon" title="AWS Icon">
   </ul>
 </div>
 <hr>
@@ -30,5 +33,5 @@
     </a>
 </ul>
 
-<h4>📚 Atualmente estudando Django Rest Framework...</h4>
+<h4>📚 Atualmente estudando Amazon Web Services...</h4>
 <h4>🎓 Técnico em informática...</h4>
