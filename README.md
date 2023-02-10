@@ -10,7 +10,7 @@
     <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/349419/javascript.svg 4x" alt="Vetor Icon" title="Vetor Icon">
     <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" srcset="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg 4x" width="47rem" heigth="45rem" alt="Icon Bootstrap" title="Icon Bootstrap">
     <img src="https://www.svgrepo.com/show/354238/python.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/354238/python.svg 4x" alt="Python Icon" title="Python Icon">
-    <img src="https://www.svgrepo.com/show/353656/django.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/353656/django.svg 4x" alt="Django Icon" title="Django Icon">
+    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="100rem" height="45rem" srcset="https://www.svgrepo.com/show/353656/django.svg 4x" alt="Django Icon" title="Django Icon">
     <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/354200/postgresql.svg 4x" alt="Postgresql Icon" title="Postgresql Icon">
     <img src="https://www.svgrepo.com/show/452192/docker.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/452192/docker.svg 4x" alt="Docker Icon" title="Docker Icon">
     <img src="https://www.svgrepo.com/show/452054/linux.svg" width="50rem" height="45rem" srcset="https://www.svgrepo.com/show/452054/linux.svg 4x" alt="Linux Icon" title="Linux Icon">
