@@ -3,7 +3,7 @@
 ## Esse é meu [site principal](https://www.brunoq.com.br/)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BunoQueiroz&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BunoQueiroz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunoQueiroz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div>
@@ -36,5 +36,5 @@
     </a>
 </ul>
 
-<h4>📚 Atualmente estudando Amazon Web Services...</h4>
-<h4>🎓 Técnico em informática...</h4>
+<h4>Atualmente Trabalhando na ASPPIBRA</h4>
+<h4>Software Developer</h4>
